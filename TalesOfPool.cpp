@@ -1,16 +1,3 @@
-﻿//-----------------------------------------------------------------------------
-// Joseph Khanh Dat Ho
-// GAM203/GAM204: Tales of Pool
-// QANTM College Melbourne
-//
-// Desc: My name is Ho Lee Fuk and I are from Chinaland. Father say I need become 
-//		 doctor and make her proud but i chose become doto player like EE-sama. 
-//		 Father not happy with choice and told commit sudoku but i know i make 
-//		 right choice. Sorry i no speak propeller engrish and Pls no copy 
-//		 pasterino dongerino frappuccino cappucino al pacino my story.
-//
-// Copyright (c) Dat Corporation. All rights reserved. Pls no coperino pasterino.
-//-----------------------------------------------------------------------------
 #include <WindowsX.h>
 #include <d3dx9.h>
 
